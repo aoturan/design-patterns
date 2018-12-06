@@ -1,5 +1,13 @@
 # Design Patterns
 
-The world splittedof two about Design Patterns. Some of them dont believe Design Patterns but another part love it.
+In this repository, I will explain some of the most popular design patterns that are currently using mostly. 
 
-I think I am in the second part.
+Design Patterns are divided into three categories:
+1. Creational
+2. Structural
+3. Behavioral
+
+
+
+I also added code samples and diagrams in each pattern folder.
+I hope they will help you and give some advice.
