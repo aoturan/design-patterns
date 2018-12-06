@@ -7,7 +7,6 @@ Design Patterns are divided into three categories:
 2. Structural
 3. Behavioral
 
+You can find each design pattern under the appropriate folder. 
 
-
-I also added code samples and diagrams in each pattern folder.
-I hope they will help you and give some advice.
+And also, any ideas, advice, and comments are welcome.
